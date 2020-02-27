@@ -55,5 +55,10 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-.env
+# .env
 
+# Build folders parcel
+dist/
+.cache
+
+.DS_store

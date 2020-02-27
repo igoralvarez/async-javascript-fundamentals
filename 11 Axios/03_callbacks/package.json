@@ -1,0 +1,21 @@
+{
+  "name": "00_get_started",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
